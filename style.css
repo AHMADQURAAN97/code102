@@ -1,0 +1,39 @@
+body{
+    margin:0;
+  }
+  
+  header nav{
+  float :right;
+  }
+  
+  header nav ul li {
+    display: inline-block;
+  }
+  
+  header h1 {
+    text-align: center;
+    height:20px;
+  }
+  
+  header nav {
+    margin-top: 0px;
+  }
+
+  header {
+    background-color:blanchedalmond ;  width:350px ;
+     height: 275px 
+  
+}
+  
+  
+  
+  main {
+    background-color: darkkhaki
+  }
+  
+  
+
+  main p {
+    color: red;background-color: bisque;
+    }
+    
